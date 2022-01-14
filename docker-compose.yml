@@ -15,4 +15,4 @@ services:
       - ./logs/:/usr/local/tomcat/logs
 
 
-    container_name: testjenkinsnewwar01
+    container_name: testjenkinsnewwar012
