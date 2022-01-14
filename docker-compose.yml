@@ -9,7 +9,6 @@ services:
   
     ports:
       - "8887:8080"
-      - "8888:8443"
 
     volumes:
       - ./logs/:/usr/local/tomcat/logs
