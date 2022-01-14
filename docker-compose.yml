@@ -9,9 +9,9 @@ services:
   
     ports:
       - "8887:8080"
+        "8886:8443"
 
     volumes:
       - ./logs/:/usr/local/tomcat/logs
-
 
     container_name: testjenkinsnewwar012
